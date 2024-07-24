@@ -1,12 +1,14 @@
 # Pizza-Tower-Together-Web-Port
 A port of Pizza Tower Together to the Browser
 
+Demo Site: COMING SOON
+
 NEW DISCORD SERVER! Check it out!
 
 [![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
 
 ## Downloads
-Source Code and Compiled Web Build can be Downloaded From the Releases Tab
+(COMING SOON) Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 
 ### Current Issues
 There are Issues, such as:
