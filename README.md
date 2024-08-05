@@ -1,11 +1,10 @@
 # Pizza-Tower-Together-Web-Port
 A port of Pizza Tower Together to the Browser
 
+## ATTENTION
+This port is now DISCONTINUED, which means no more updates will happen to this port
+
 Demo Site: https://www.autistici.org/burnedprojects/pt_together/PTTogether.html
-
-NEW DISCORD SERVER! Check it out!
-
-[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
 
 ## Downloads
 Source Code and Compiled Web Build can be Downloaded From the Releases Tab
